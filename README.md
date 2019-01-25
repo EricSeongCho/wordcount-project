@@ -11,11 +11,11 @@ See deployment for notes on how to deploy the project on a live system.
 # Installing 
 Python
 
-Go to the Python website and download Python for your system. 
+1. Go to the Python website and download Python for your system. 
 
-Make sure that your system is 32 bit or 64 bit
+2. Make sure that your system is 32 bit or 64 bit
 
-Find your computer system variables and add python to your PATH
+3. Find your computer system variables and add python to your PATH
 
 DJango
 Go to your command windown on your computer
