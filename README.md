@@ -18,11 +18,17 @@ Python
 3. Find your computer system variables and add python to your PATH
 
 DJango
+
 Go to your command windown on your computer
+
 Django can be downlaoded as a pip package with python
+
 input the command Pip3 install django == 2.1.3 since this is version I worked with
+
 On your command window navigate through your directory your drive where you want to create your project
+
 Type Django-admin to see all the commands you can do with django, we want to use startproject then the project name
+
 Type Django-admin startproject wordcount
 
 IDE
