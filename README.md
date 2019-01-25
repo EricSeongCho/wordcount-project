@@ -4,7 +4,7 @@ This website will have someone insert text on the homepage, then once they hit c
      These instructions will help you set up your own word-counter project on your local machine for development and testing purposes.        See deployment for notes on how to deploy the project on a live system.
 # Pre Requisites
                         Must have Python installed since it is a prerequisite for DJango
-Must have Django
+       Must have Django
 A text editor or IDE of your choice
 # Installing 
 Python
