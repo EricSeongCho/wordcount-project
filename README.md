@@ -1,3 +1,7 @@
 # wordcount-project
 
-efwfewfw
+# Getting Started
+
+# Pre Requisites
+
+# Installing 
