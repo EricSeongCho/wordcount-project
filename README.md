@@ -10,8 +10,11 @@ See deployment for notes on how to deploy the project on a live system.
                         A text editor or IDE of your choice
 # Installing 
 Python
+
 Go to the Python website and download Python for your system. 
+
 Make sure that your system is 32 bit or 64 bit
+
 Find your computer system variables and add python to your PATH
 
 DJango
