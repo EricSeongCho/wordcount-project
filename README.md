@@ -32,14 +32,19 @@ DJango
 6. Type Django-admin startproject wordcount
 
 IDE
-Once you have your project open it with your IDE or text editor to add your changes to experiment.
+
+1. Once you have your project open it with your IDE or text editor to add your changes to experiment.
 
 
 # Deployment
 now navigate on your command window to your wordcount directory that you created 
+
 It contains a manage.py folder and a wordcount folder
+
 In your command window type Python manage.py runserver
+
 This will set up a webserver that is hosting our django project
+
 It will give you a URL which you will then paste into your web browser for you to get started with your website.
 
 # Testing
