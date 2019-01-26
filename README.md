@@ -1,4 +1,4 @@
-# wordcount-project
+# Wordcount-Project
 This website will have someone insert text on the homepage, then once they hit count it will count how many times each words appears
 # Getting Started
 These instructions will help you set up your own word-counter project on your local machine for development and testing purposes.   
