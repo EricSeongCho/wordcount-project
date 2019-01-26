@@ -37,7 +37,7 @@ IDE
 
 
 # Deployment
-now navigate on your command window to your wordcount directory that you created 
+Now navigate on your command window to your wordcount directory that you created 
 
 It contains a manage.py folder and a wordcount folder
 
@@ -51,4 +51,5 @@ It will give you a URL which you will then paste into your web browser for you t
 When you make changes to the files for experimenting, press CTRL-C to stop the server and input the command python manage.py wordcount to start the server again
 # Built With 
 DJANGO
+
 PYTHON
